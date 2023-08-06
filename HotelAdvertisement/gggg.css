@@ -1,0 +1,125 @@
+.head{
+    background-color:red;
+    margin-bottom:10px;
+    height:40px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size: 30px;
+    color:beige;
+    font-family: cursive;
+    border-style:dotted;
+    }
+    .me{
+    background-color: aqua;
+     margin-bottom:10px;
+ float:left;
+     width:30%;
+     height:600px;
+     margin-right:10px;
+     margin-left:10px;
+ border-style:dotted;
+    }
+    .con{
+     background-color: blueviolet;
+ margin-bottom:10px;
+     float: left;
+ width:30%;
+     height:600px;
+     margin-right:20px;
+ margin-left:10px;
+    border-style:dotted;
+    }
+    .abo{
+    background-color:cadetblue;
+     margin-bottom:10px;
+     float: left;
+     width:30%;
+     height:600px;
+    margin-right:10px;
+     margin: left 10px;
+     border-style:dotted;
+    
+     padding-top:20px;
+     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(118,3,212,1) 0%, rgba(9,175,236,1) 0%, rgba(1,187,239,1) 0%, rgba(89,76,224,1) 0%, rgba(113,39,215,1) 0%, rgba(0,212,255,1) 100%);
+     color: antiquewhite;
+    
+    }
+    .foo{
+     background-color:gold;
+     margin-bottom:10px;
+     clear:both;
+     height:40px;
+    padding-top:10px;
+    border-style: dotted;
+    }
+    .layout{
+    text-align: center;
+    
+    }
+    
+    span{
+font-size: 40px;
+    color:white;
+font-family: fantasy;
+    letter-spacing: 2px;
+    
+    }
+    input{
+    margin:10px;
+    }
+    .sub{
+ text-align: center;
+     padding:20px;
+    }
+    button{
+ font-size: 30px;
+     color:blueviolet;
+     font-family: monospace;
+     width:200px;
+    }
+    #gi{
+        position:relative;
+        right:50px;
+        
+    }
+    #ki{
+position:relative;
+left:0px;
+
+    }
+    .textarea{
+           width:200px;
+       height:120px;
+       position:relative;
+       left:40px;
+       bottom:15px
+    }
+    .address{
+
+position:relative;
+right:135px;
+    }
+    #gen{
+        position:relative;
+        right:40px;
+    }
+    .male{
+        position:relative;
+        right:20px
+    }
+    .ti{
+        position:relative;
+        right:20px
+    }
+    input{
+        font-size:15px;
+    }
+    .sel{
+        position:relative;
+        right:30px;
+    }
+    .sel1{
+        width:40px;
+        position:relative;
+        right:30px
+    }
